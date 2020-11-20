@@ -6,6 +6,10 @@ a:hover {
   color: #cccccc;
 }
 
+h3 {
+  border-bottom: 1px solid #ccc;
+}
+
 header {
   margin-bottom: 30px;
 }
